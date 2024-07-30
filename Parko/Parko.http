@@ -1,0 +1,6 @@
+@Parko_HostAddress = http://localhost:5233
+
+GET {{Parko_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
